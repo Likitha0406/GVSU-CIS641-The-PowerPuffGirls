@@ -6,7 +6,7 @@ The Password Store Manager is a C# project integrated with SQLite, designed to s
 
 * [Likitha (Developer,Testing)](https://github.com/Likitha0406/CIS641-HW2-Magham)
 * [Bhavana (Backend, SQLite)](https://github.com/ArlaBhavana/CIS641-HW2-ARLA.git)
-* Swetha  (Frontend, Database)
+* [Swetha (Frontend, Database)](https://github.com/SwethaSimhadri/CIS641-HW2-Simhadri)
 
 ## Prerequisites
 
