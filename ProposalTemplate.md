@@ -1,4 +1,4 @@
-# Team name: # The PowePuffGirls
+# Team name: The PowePuffGirls
 
 # Team members:
 
