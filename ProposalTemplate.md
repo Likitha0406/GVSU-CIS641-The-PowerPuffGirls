@@ -1,8 +1,8 @@
-#Team name: 
+# Team name: 
 
 The PowePuffGirls
 
-#Team members:
+# Team members:
 
 . Likitha Magham
 
