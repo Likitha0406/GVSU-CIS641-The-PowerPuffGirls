@@ -3,7 +3,9 @@ Team name: The PowePuffGirls
 Team members:
 
 . Likitha Magham
+
 . SwethaSarayu Simhadri
+
 . Bhavana Arla
 
 # Introduction
