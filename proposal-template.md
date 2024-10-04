@@ -45,10 +45,13 @@ To complete this project, the following key tasks will be addressed:
 
 * Database Design: 
 Establishing a proper schema for storing user credentials securely. This task will require careful consideration of relationships and security implications.
+
 * Application Development: 
 Coding the backend and frontend, ensuring smooth integration with the SQLite database. The complexity of encryption and security features may require additional time.
+
 * Testing and Refinement: 
 Conducting thorough testing to ensure all functionalities work as intended and addressing any bugs or security vulnerabilities.
+
 * Estimated Completion: December 1st to 5th.
 
 # Anticipated Problems
