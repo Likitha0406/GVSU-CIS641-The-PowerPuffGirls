@@ -52,9 +52,9 @@ Conducting thorough testing to ensure all functionalities work as intended and a
 * Estimated Completion: December 1st to 5th.
 
 # Anticipated Problems
-  Security Challenges: Implementing robust security measures may pose challenges, especially around encryption and data handling.
-  Database Management: Ensuring efficient and secure access to the SQLite database can lead to potential issues during implementation.
-  User Experience: Designing an intuitive interface that caters to all user needs while maintaining security can be a balancing act.
+* Security Challenges: Implementing robust security measures may pose challenges, especially around encryption and data handling.
+* Database Management: Ensuring efficient and secure access to the SQLite database can lead to potential issues during implementation.
+* User Experience: Designing an intuitive interface that caters to all user needs while maintaining security can be a balancing act.
 
 * By addressing these areas, we aim to deliver a reliable and secure password manager application.
 
