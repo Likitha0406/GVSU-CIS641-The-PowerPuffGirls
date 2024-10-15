@@ -1,0 +1,4 @@
+# _config.yml
+title: "Password Store Manager"
+description: "The Passwordr Store Manager is a C# Password Store Manager integrated with SQLite. This application allows users to securely store, manage, and generate passwords, with encryption ensuring safe storage and easy retrieval."
+theme: jekyll-theme-architect
