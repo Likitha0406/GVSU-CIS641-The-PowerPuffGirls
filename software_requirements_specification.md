@@ -1,28 +1,45 @@
-# The Password Store Manager
+# Software Requirements Specification (SRS)
+
+## Overview
+This document describes the functional and non-functional requirements for the **Password Store Manager Project**. The purpose of this document is to outline the key features and performance expectations of the application, ensuring a clear understanding of the system's capabilities.
+
+## Functional Requirements
+
+1. **Password Retrieval**
+   - **FR1:** The system shall allow users to retrieve stored passwords by entering a unique master password.
+   
+
+2. **Password Generation**
+   - **FR2:** The application shall provide a password generator that can generate secure passwords based on user-specified criteria, such as length and character types.
+   - **FR3:** The system shall allow the users to customize their password generation by adding or removing the special characters, number, and upper-case letters.
+   - **FR4:** The system shall ensure the user to save them before allowing the newly generated passwords that meet the minimum-security criteria including the length and special 
+              characters
+
+3. **Password Storage**
+   - **FR5:** The system shall store encrypted passwords in an SQLite database to ensure data security.
+
+4. **Password Deletion**
+   - **FR6:** The application shall allow users to delete stored passwords and delete the application securely when required.
 
 
-**The Passwordr Store Manager** is a C# Password Store Manager integrated with SQLite. This application allows users to securely store, manage, and generate passwords, with encryption ensuring safe storage and easy retrieval. 
+## Non-Functional Requirements
 
-## Key Features
-- **Encryption:** Each password is encrypted with a unique key for maximum security.
-- **Password Generator:** Customizable password generation based on length, complexity, and character types.
-- **SQLite Integration:** Secure storage of passwords with SQLite.
-- **User-Friendly Interface:** Simple interface for easy password management.
+1. **Data Encryption**
+   - **NFR7:** The system shall encrypt all stored passwords using a minimum of AES-256 encryption.
 
-## Team Members
-- **Likitha (Developer, Testing)**: [GitHub Profile](https://github.com/Likitha0406)
-- **Bhavana (Backend, SQLite)**: [GitHub Profile](https://github.com/ArlaBhavana)
-- **Swetha (Frontend, Database)**: [GitHub Profile](https://github.com/SwethaSimhadri)
+2. **Performance**
+   - **NFR8:** The application shall ensure that the password retrieval process takes less than 2 seconds under normal load conditions.
+   - **NFR9:** The application shall ensure that for all operations it should complete with in 2 seconds on average including password generation, password retrieval, password 
+                deletion.
 
-## Prerequisites
-- **Development Environment:**
-  - Visual Studio (C# development environment)
-  - SQLite for database management
+3. **Compatibility**
+   - **NFR10:** The system shall be compatible with Mac operating systems and require minimal installation time.
 
-## Links to Project Resources
+4. **Usability**
+   - **NFR11:** The application shall support a user-friendly interface, making it easy to navigate and perform password-related tasks with minimal training.
 
-- **[Artifacts](https://github.com/Likitha0406/ThePowerPuffGirls/tree/main/artifacts)**: Project proposals, design documents, and other important files.
-- **[Documentation](https://github.com/Likitha0406/ThePowerPuffGirls/tree/main/docs)**: API documentation, user guides, and other relevant documents.
-- **[Meetings](https://github.com/Likitha0406/ThePowerPuffGirls/tree/main/meetings)**: Notes and summaries from team meetings.
-- **[Tests](https://github.com/Likitha0406/ThePowerPuffGirls/tree/main/tests)**: Unit tests and other testing documents for the project.
-- **[website](https://likitha0406.github.io/ThePowerPuffGirls/)**: Access the live demo and explore the application.
+5. **Availability**
+   -**NFR12:** The system shall ensure that it will be available 99% of the time by ensuring continuous access to saved passwords with minimal downtime.
+
+6. **Reliability**
+   -**NFR13:** The application shall ensure that it maintains 99.9% uptime to ensure that the users can always access their saved passwords.
