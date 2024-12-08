@@ -209,5 +209,5 @@ Below are the links to refer to each artifact for the application:
 * [CRC+Class+Object](https://github.com/Likitha0406/GVSU-CIS641-The-PowerPuffGirls/blob/main/docs/Document%20CRC%2BClass%2BObject.pdf)
 * [Class Diagram](https://github.com/Likitha0406/GVSU-CIS641-The-PowerPuffGirls/blob/main/docs/Document%20Class%20Diagram.pdf)
 * [Sequence+State](https://github.com/Likitha0406/GVSU-CIS641-The-PowerPuffGirls/blob/main/docs/Document%20Sequence%2BState.pdf)
-* [Use Case+Activity Diagram](https://github.com/Likitha0406/GVSU-CIS641-The-PowerPuffGirls/docs/UseCase+ActivityDiagram.pdf)
+* [Use Case+Activity Diagram](https://github.com/Likitha0406/GVSU-CIS641-The-PowerPuffGirls/blob/main/docs/DocumentUseCase%2BActivity%20Diagram.pdf)
 * [Screenshots for the Code](https://github.com/Likitha0406/GVSU-CIS641-The-PowerPuffGirls/docs/Document1.pdf)
