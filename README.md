@@ -21,3 +21,5 @@ The Password Store Manager is a C# project integrated with SQLite, designed to s
 - **[Software Requirements Specifications](https://github.com/Likitha0406/GVSU-CIS641-The-PowerPuffGirls/blob/main/software_requirements_specification.md)**
 - **[Meetings](https://github.com/Likitha0406/GVSU-CIS641-The-PowerPuffGirls/tree/main/meetings)**
 - **[Docs](https://github.com/Likitha0406/GVSU-CIS641-The-PowerPuffGirls/tree/main/docs)**
+- **[FinalPresentationVideo](https://github.com/Likitha0406/GVSU-CIS641-The-PowerPuffGirls/blob/main/docs/Final%20Presentation%20Video.mp4)**
+- **[ProjectDemo](https://github.com/Likitha0406/GVSU-CIS641-The-PowerPuffGirls/blob/main/docs/Project%20Demo.mp4)**
